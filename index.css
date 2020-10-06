@@ -1,0 +1,30 @@
+.stars{
+  border-style: solid;
+  border-color: #ff0000; /* red */
+}
+
+h1{
+  color: #4E1DE9;
+  text-align: center;
+  margin: 20px;
+}
+
+p{
+  color: #4E1DE9
+}
+
+.links:hover {
+  text-decoration: underline;
+  color: rgb(52, 52, 177);
+}
+
+.favoritepianopieces{
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 15px;
+}
+
+.favoritepianopieces{
+  border-style: solid;
+  border-color: #4E1DE9; /* red */
+}
